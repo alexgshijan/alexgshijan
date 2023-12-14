@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me [My Website](https://cv.shijan.co.uk)
 
-![https://cv.shijan.co.uk]
+https://cv.shijan.co.uk
